@@ -22,7 +22,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![openCV](https://img.shields.io/badge/OpenCV-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![openCV](https://img.shields.io/badge/OpenCV-6DB33F?style=for-the-badge&logo=Opencv&logoColor=white)
 
 ### DB
 
