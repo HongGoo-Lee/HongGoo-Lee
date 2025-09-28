@@ -19,7 +19,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Frameworks & Libraries
 
