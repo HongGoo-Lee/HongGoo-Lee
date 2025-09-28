@@ -29,7 +29,7 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![openCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=Opencv&logoColor=white)
 
-### DB
+### DBMS
 
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSqlServer](https://img.shields.io/badge/MicrosoftSqlServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
